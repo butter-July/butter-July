@@ -1,16 +1,22 @@
-## Hi there 👋
+# 😄 欢迎来到我的GitHub避风港
 
-<!--
-**butter-July/butter-July** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+嘿，我是ZZ，一个游走在代码海洋中的本科学生，虽然对大数据的热情有待开发，但谁能拒绝一行行充满Bug的代码呢？
 
-Here are some ideas to get you started:
+## 🌱 自我简介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 一名埋头苦读的大数据专业学生——毕竟学术界需要更多代数战士！
+- 🛠 试图在Golang和Python之间找到平衡——就像在两只椅子上坐下。
+- ⚙️ 技能？请给我一点时间，好吗？
+- 🗣 辩论爱好者，或者说能用嘴说服空气的人。
+
+## 📫 如何找到我
+
+- 寄一只信鸽:不要联系我
+
+## 🚧 项目和未来计划
+
+目前寄予希望于点亮那些沉睡的编程技能，敬请围观奇迹时刻。
+
+---
+
+感谢你来访，希望我们都能像代码审核那样严格又有成效！😄
